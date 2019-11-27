@@ -1,0 +1,2 @@
+# wordcount
+learning some django
